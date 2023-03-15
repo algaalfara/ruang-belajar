@@ -1,4 +1,4 @@
 Contributor:
 
-- `<Alga Alfara> - <FE4841848>`
+- <Alga Alfara> - <FE4841848>
 - Bob
